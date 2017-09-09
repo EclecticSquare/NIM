@@ -1,0 +1,9 @@
+GAME OF NIM
+
+The breakdown
+  1. 16 dots => an array within an array
+  2. whose turn
+  3. how many dots they picked
+  4. remove dots from what is left on the board
+  5. print dots to the screen
+  6. identify winner
